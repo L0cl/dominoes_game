@@ -194,7 +194,6 @@ public class DominoPile {
 			}
 		}
 		if (max == null)	System.out.println("No matching domino with " + last);
-		System.out.println("rrrrrrrrrrrrrrrreturning " + max);
 		return max;
 	}
 
