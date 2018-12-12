@@ -1,7 +1,7 @@
 # domino_game
 Coding challenge : Implementing a classic dominoes game. All use of Lists, external API are forbidden.
 
-#Rules
+# Rules
 - 4 players max (will play with a bot if there is only one player),
 - a domino can only be placed on the right side,
 - get the minimum score to win (sum of each domino's value you still have at the end of the game),
